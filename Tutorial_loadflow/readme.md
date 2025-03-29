@@ -26,3 +26,8 @@ Creating a Load in pandapower:
 * q_mvar: Reactive power consumption in megavars (MVAr).
 
 * name (optional): A custom name for the load.                                                                              * * Load (PQ) : 01
+
+
+ ## $${\color{red}  Sample \space Power \space  network \space with\space 3 \space bus }$$
+
+![image](https://github.com/user-attachments/assets/cafb3707-c751-46d3-9c03-2240f3f2680f)
