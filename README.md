@@ -5,14 +5,14 @@ pandapower is an open-source Python library designed for power system analysis, 
 
 The primary features of pandapower include:
 
-# Streamlined Data Structure: Utilizes pandas DataFrames to manage network data, ensuring compatibility with standard Python data handling practices.
+Streamlined Data Structure: Utilizes pandas DataFrames to manage network data, ensuring compatibility with standard Python data handling practices.
 
-# Comprehensive Network Modeling: Supports the modeling of diverse network components such as buses, lines, transformers, loads, and generators.
+Comprehensive Network Modeling: Supports the modeling of diverse network components such as buses, lines, transformers, loads, and generators.
 
-# Power Flow Calculation: Implements efficient algorithms, including Newton-Raphson, to perform load flow analysis.
+Power Flow Calculation: Implements efficient algorithms, including Newton-Raphson, to perform load flow analysis.
 
-# Optimal Power Flow (OPF): Provides tools for solving optimization problems pertinent to power system operation and planning.
+Optimal Power Flow (OPF): Provides tools for solving optimization problems pertinent to power system operation and planning.
 
-# State Estimation and Short-Circuit Analysis: Facilitates accurate estimation of network states and comprehensive fault analysis.
+State Estimation and Short-Circuit Analysis: Facilitates accurate estimation of network states and comprehensive fault analysis.
 
-# Visualization Capabilities: Includes functionalities for plotting network diagrams and visualizing computational results.
+Visualization Capabilities: Includes functionalities for plotting network diagrams and visualizing computational results.
