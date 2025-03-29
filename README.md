@@ -16,3 +16,5 @@ Optimal Power Flow (OPF): Provides tools for solving optimization problems perti
 State Estimation and Short-Circuit Analysis: Facilitates accurate estimation of network states and comprehensive fault analysis.
 
 Visualization Capabilities: Includes functionalities for plotting network diagrams and visualizing computational results.
+
+# for more information on installing and running pandapower refer to https://www.pandapower.org/start/
