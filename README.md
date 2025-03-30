@@ -17,8 +17,17 @@ The primary features of pandapower include:
 
 * Visualization Capabilities: Includes functionalities for plotting network diagrams and visualizing computational results.
 
+## ✅ Installing pandapower
+pandapower is an open-source Python library for power system analysis, designed for easy-to-use, fast, and flexible simulations of electrical power systems.
+
+## 📌 Installation via pip (Recommended)
+
+
+pip install pandapower
 ### 📚 Documentation
 For detailed documentation, check: Pandapower Documentation
 for more information on installing and running pandapower refer to https://www.pandapower.org/start/
 
 #### The tutorial are aimed to serve as bencnmark between different power system model available like Simulink/PSCAD, the accuracy of results obtained from pandapower shall be demonstarted with equivalent modelling in simulink/PSCAD.
+
+check Tutorial_loadflow for different benchmark cases 
