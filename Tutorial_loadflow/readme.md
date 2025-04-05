@@ -2,6 +2,12 @@
 * Bus : 3
 * Transmission line : 3
 * Generator (PV) : 01
+* Generator (Slack Bus) :  01
+* Load Bus ; PQ
+## The pandapower code is bench marked with 
+* "Simulink" / " PSCAD" and also " PyPSA "
+* The results are tabulated for Voltage (PU), Active Power flow and Reactive Power floe
+
 ### Creation of External grid In pandapower, an External Grid (ext_grid) represents the connection of a power network to an external power source or a larger power system, typically serving as a slack or reference bus for load flow calculations. It is used to define the voltage and phase angle of a specific bus within the network and provides or absorbs active and reactive power as needed to balance the system.
 
 Key Characteristics of ext_grid in pandapower:
